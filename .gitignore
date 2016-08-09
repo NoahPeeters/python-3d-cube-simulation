@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+# C extensions
+*.so
+
+build/
+.idea/
+.DS_Store
+engine/__pycache__/
